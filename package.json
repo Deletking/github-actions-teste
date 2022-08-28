@@ -1,0 +1,24 @@
+{
+  "name": "github-action-teste",
+  "version": "1.0.0",
+  "description": "Esse projeto tem o intuito de testar as funcionalidades de CI/CD do github actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Teste running...\"",
+    "build": "echo \"Build running...\"",
+    "deploy": "echo \"Deploying new build to cloud server...\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deletking/github-actions-teste.git"
+  },
+  "keywords": [
+    "CI/CD"
+  ],
+  "author": "Deletking",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deletking/github-actions-teste/issues"
+  },
+  "homepage": "https://github.com/Deletking/github-actions-teste#readme"
+}
